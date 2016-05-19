@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-   <LongName>Calibre Web</LongName>
-   <ShortName>Calibre Web</ShortName>
-   <Description>Calibre Web ebook catalog</Description>
+   <LongName>Blago's lib</LongName>
+   <ShortName>Blago's lib</ShortName>
+   <Description>Web ebook catalog</Description>
    <Developer>janeczku</Developer>
    <Contact>https://github.com/janeczku/calibre-web</Contact>
    <Url type="text/html"
